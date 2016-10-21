@@ -68,3 +68,5 @@ x | o | x
 ----------
 x | x | o
 ```
+### Changes Remaining:
+1. Add Choice as Who will start the game! 
