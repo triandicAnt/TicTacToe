@@ -1,5 +1,10 @@
 # TicTacToe
 Tic Tac Toe Game in Python
+
+### How to Run 
+```
+python TicTacToe.py
+```
 ```
 ************************************************************
 
