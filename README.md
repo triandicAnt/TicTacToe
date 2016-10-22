@@ -70,3 +70,4 @@ x | x | o
 ```
 ### Changes Remaining:
 1. Add Choice as Who will start the game! 
+2. Train the Model to take decisions instead of selecting a random value (Using Decision Tree algorithms)
