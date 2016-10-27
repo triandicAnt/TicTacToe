@@ -1,5 +1,5 @@
 # TicTacToe:
-Tic Tac Toe Game in Python.
+Tic Tac Toe Game(Dumb) in Python.
 
 ### How to Run:
 ```
